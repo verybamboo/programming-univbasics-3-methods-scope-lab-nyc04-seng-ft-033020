@@ -1,4 +1,4 @@
-def mario(phrase = 'Mario')
+def mario(phrase = 'mario')
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
