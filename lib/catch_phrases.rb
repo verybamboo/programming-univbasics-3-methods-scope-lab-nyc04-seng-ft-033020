@@ -10,7 +10,6 @@ def toadstool
 end
 
 def all_phrases()
-  toadstool
-  mario
+  
 end
   
